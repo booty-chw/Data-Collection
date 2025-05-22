@@ -1,2 +1,2 @@
-/usr/bin/ar qc libsensors.a CMakeFiles/sensors.dir/sensors/src/eye/eye.cpp.o CMakeFiles/sensors.dir/sensors/src/egg/egg.cpp.o CMakeFiles/sensors.dir/sensors/src/wristband/wristband.cpp.o
+/usr/bin/ar qc libsensors.a CMakeFiles/sensors.dir/sensors/src/eye/eye.cpp.o CMakeFiles/sensors.dir/sensors/src/egg/egg.cpp.o CMakeFiles/sensors.dir/sensors/src/wristband/wristband.cpp.o CMakeFiles/sensors.dir/common/MQTTTransfer.cpp.o
 /usr/bin/ranlib libsensors.a

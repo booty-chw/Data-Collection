@@ -55,6 +55,23 @@
         "streambuf": "cpp",
         "thread": "cpp",
         "typeinfo": "cpp",
-        "__nullptr": "cpp"
+        "__nullptr": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "queue": "cpp",
+        "any": "cpp",
+        "charconv": "cpp",
+        "codecvt": "cpp",
+        "forward_list": "cpp",
+        "map": "cpp",
+        "iomanip": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "valarray": "cpp",
+        "variant": "cpp",
+        "format": "cpp",
+        "__tree": "cpp",
+        "stack": "cpp",
+        "filesystem": "cpp"
     }
 }

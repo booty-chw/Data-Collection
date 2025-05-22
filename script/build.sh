@@ -45,7 +45,7 @@ make -j$(nproc) || error_exit "Build failed"
 echo "Build completed successfully!"
 
 # 运行测试程序（如果需要的话）
-if [ -f "source/test_eye" ]; then
-    echo "Running test program..."
-    ./source/test_eye
-fi
+# if [ -f "source/test_eye" ]; then
+#     echo "Running test program..."
+#     ./source/test_eye
+# fi

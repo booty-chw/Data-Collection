@@ -1,6 +1,6 @@
-# Data Collection Project
+# 多生物传感器数据采集系统
 
-这是一个用于采集多种传感器数据的项目，支持多种生物传感器设备的数据采集，包括眼动仪、脑电图（EEG）和腕带等设备。
+这是一个用于同时采集多种生物传感器数据的完整解决方案，支持眼动仪、脑电图(EEG)和腕带(PPG)等设备的实时数据采集、传输和存储。
 
 ## 项目结构
 
@@ -88,6 +88,51 @@ int main() {
     return 0;
 }
 ```
+
+## 数据传输服务
+
+### 服务端设置
+
+1. 安装 MQTT 服务器：
+   ```bash
+   sudo apt-get install mosquitto mosquitto-clients
+   ```
+
+2. 安装 Python 依赖：
+   ```bash
+   pip3 install paho-mqtt
+   ```
+
+3. 启动 MQTT 服务器：
+   ```bash
+   sudo systemctl start mosquitto
+   sudo systemctl enable mosquitto
+   ```
+
+4. 运行数据接收服务器：
+   ```bash
+   python3 script/server.py
+   ```
+
+### 数据格式
+
+数据通过 MQTT 协议传输，使用 JSON 格式：
+
+```json
+{
+    "timestamp_ns": 1234567890,
+    "device_id": 1,
+    "values": [0.5, 0.8, 3.2]
+}
+```
+
+- `timestamp_ns`: 纳秒级时间戳
+- `device_id`: 设备唯一标识
+- `values`: 传感器数据数组
+
+### MQTT 主题
+
+- 传感器数据主题: `sensors/data`
 
 ## 开发说明
 

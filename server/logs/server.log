@@ -1,0 +1,501 @@
+2025-05-22 12:16:09,794 - mqtt_handler - INFO - Connecting to MQTT broker at localhost:1883
+2025-05-22 12:16:09,795 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:10,335 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:11,336 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:12,337 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:13,339 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:14,343 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:15,345 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:16,347 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:17,348 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:18,349 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:19,351 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:20,361 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:21,353 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:22,355 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:23,356 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:24,357 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:25,359 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:26,360 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:27,362 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:28,364 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:29,366 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:30,367 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:31,369 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:32,370 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:33,371 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:34,373 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:35,374 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:36,376 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:37,377 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:38,378 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:39,380 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:40,381 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:41,383 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:42,384 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:43,385 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:44,387 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:45,388 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:46,389 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:47,390 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:48,392 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:49,274 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.239107 from device 0
+2025-05-22 12:16:49,303 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.239171 from device 1001
+2025-05-22 12:16:49,331 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.239184 from device 1002
+2025-05-22 12:16:49,340 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.249249 from device 1002
+2025-05-22 12:16:49,350 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.249285 from device 1001
+2025-05-22 12:16:49,363 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.249296 from device 1002
+2025-05-22 12:16:49,373 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.259370 from device 1002
+2025-05-22 12:16:49,382 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.259403 from device 1001
+2025-05-22 12:16:49,391 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.259414 from device 1002
+2025-05-22 12:16:49,393 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:49,407 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.269473 from device 1002
+2025-05-22 12:16:49,424 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.269487 from device 1001
+2025-05-22 12:16:49,435 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.269497 from device 1002
+2025-05-22 12:16:49,446 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.279556 from device 1002
+2025-05-22 12:16:49,465 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.400553 from device 1002
+2025-05-22 12:16:49,494 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.400563 from device 1001
+2025-05-22 12:16:49,504 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.400574 from device 1002
+2025-05-22 12:16:49,513 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.410642 from device 1002
+2025-05-22 12:16:49,523 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.410698 from device 1001
+2025-05-22 12:16:49,532 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.410711 from device 1002
+2025-05-22 12:16:49,542 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.420826 from device 1002
+2025-05-22 12:16:49,551 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.421150 from device 1001
+2025-05-22 12:16:49,561 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.421184 from device 1002
+2025-05-22 12:16:49,570 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.431406 from device 1002
+2025-05-22 12:16:49,580 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.431845 from device 1001
+2025-05-22 12:16:49,589 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.431877 from device 1002
+2025-05-22 12:16:49,599 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.441982 from device 1002
+2025-05-22 12:16:49,608 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.442041 from device 1001
+2025-05-22 12:16:49,624 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.442060 from device 1002
+2025-05-22 12:16:49,635 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.452130 from device 1002
+2025-05-22 12:16:49,645 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.452195 from device 1001
+2025-05-22 12:16:49,655 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.452212 from device 1002
+2025-05-22 12:16:49,670 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.462291 from device 1002
+2025-05-22 12:16:49,680 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.462320 from device 1001
+2025-05-22 12:16:49,689 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.462333 from device 1002
+2025-05-22 12:16:49,698 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.472396 from device 1002
+2025-05-22 12:16:49,708 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.472425 from device 1001
+2025-05-22 12:16:49,717 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.472440 from device 1002
+2025-05-22 12:16:49,726 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.482502 from device 1002
+2025-05-22 12:16:49,736 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.482514 from device 1001
+2025-05-22 12:16:49,745 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.482527 from device 1002
+2025-05-22 12:16:49,755 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.492588 from device 1002
+2025-05-22 12:16:49,764 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.492600 from device 1001
+2025-05-22 12:16:49,773 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.492614 from device 1002
+2025-05-22 12:16:49,783 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.502675 from device 1002
+2025-05-22 12:16:49,792 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.502687 from device 1001
+2025-05-22 12:16:49,801 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.502701 from device 1002
+2025-05-22 12:16:49,811 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.512762 from device 1002
+2025-05-22 12:16:49,822 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.512773 from device 1001
+2025-05-22 12:16:49,837 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.512787 from device 1002
+2025-05-22 12:16:49,848 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.522848 from device 1002
+2025-05-22 12:16:49,858 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.522860 from device 1001
+2025-05-22 12:16:49,868 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.522874 from device 1002
+2025-05-22 12:16:49,877 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.532935 from device 1002
+2025-05-22 12:16:49,887 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.532946 from device 1001
+2025-05-22 12:16:49,897 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.532960 from device 1002
+2025-05-22 12:16:49,907 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.543021 from device 1002
+2025-05-22 12:16:49,916 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.543033 from device 1001
+2025-05-22 12:16:49,926 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.543046 from device 1002
+2025-05-22 12:16:49,935 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.553110 from device 1002
+2025-05-22 12:16:49,945 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.553138 from device 1001
+2025-05-22 12:16:49,955 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.553167 from device 1002
+2025-05-22 12:16:49,964 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.563229 from device 1002
+2025-05-22 12:16:49,973 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.563242 from device 1001
+2025-05-22 12:16:49,983 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.563256 from device 1002
+2025-05-22 12:16:49,993 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.573319 from device 1002
+2025-05-22 12:16:50,003 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.573345 from device 1001
+2025-05-22 12:16:50,014 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.573361 from device 1002
+2025-05-22 12:16:50,028 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.583430 from device 1002
+2025-05-22 12:16:50,039 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.583460 from device 1001
+2025-05-22 12:16:50,049 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.583476 from device 1002
+2025-05-22 12:16:50,059 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.593542 from device 1002
+2025-05-22 12:16:50,072 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.593573 from device 1001
+2025-05-22 12:16:50,082 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.593590 from device 1002
+2025-05-22 12:16:50,091 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.603664 from device 1002
+2025-05-22 12:16:50,101 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.603723 from device 1001
+2025-05-22 12:16:50,110 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.603740 from device 1002
+2025-05-22 12:16:50,120 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.613811 from device 1002
+2025-05-22 12:16:50,130 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.613867 from device 1001
+2025-05-22 12:16:50,139 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.613884 from device 1002
+2025-05-22 12:16:50,149 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.624015 from device 1002
+2025-05-22 12:16:50,158 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.624126 from device 1001
+2025-05-22 12:16:50,168 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.624151 from device 1002
+2025-05-22 12:16:50,177 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.634245 from device 1002
+2025-05-22 12:16:50,187 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.634420 from device 1001
+2025-05-22 12:16:50,197 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.634442 from device 1002
+2025-05-22 12:16:50,207 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.644529 from device 1002
+2025-05-22 12:16:50,218 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.644585 from device 1001
+2025-05-22 12:16:50,230 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.644605 from device 1002
+2025-05-22 12:16:50,240 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.654692 from device 1002
+2025-05-22 12:16:50,250 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.654747 from device 1001
+2025-05-22 12:16:50,266 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.654777 from device 1002
+2025-05-22 12:16:50,276 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.664891 from device 1002
+2025-05-22 12:16:50,290 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.664923 from device 1001
+2025-05-22 12:16:50,299 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.664937 from device 1002
+2025-05-22 12:16:50,309 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.674999 from device 1002
+2025-05-22 12:16:50,318 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.675027 from device 1001
+2025-05-22 12:16:50,328 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.675046 from device 1002
+2025-05-22 12:16:50,337 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.685112 from device 1002
+2025-05-22 12:16:50,347 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.685124 from device 1001
+2025-05-22 12:16:50,356 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.685138 from device 1002
+2025-05-22 12:16:50,373 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.695201 from device 1002
+2025-05-22 12:16:50,391 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.695213 from device 1001
+2025-05-22 12:16:50,401 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.695227 from device 1002
+2025-05-22 12:16:50,411 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.705290 from device 1002
+2025-05-22 12:16:50,422 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.705302 from device 1001
+2025-05-22 12:16:50,433 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.705316 from device 1002
+2025-05-22 12:16:50,443 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.715377 from device 1002
+2025-05-22 12:16:50,453 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.715388 from device 1001
+2025-05-22 12:16:50,463 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.715402 from device 1002
+2025-05-22 12:16:50,472 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.725463 from device 1002
+2025-05-22 12:16:50,482 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.725475 from device 1001
+2025-05-22 12:16:50,491 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.725489 from device 1002
+2025-05-22 12:16:50,501 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.735553 from device 1002
+2025-05-22 12:16:50,510 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.735564 from device 1001
+2025-05-22 12:16:50,524 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.735578 from device 1002
+2025-05-22 12:16:50,533 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.745645 from device 1002
+2025-05-22 12:16:50,543 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.745675 from device 1001
+2025-05-22 12:16:50,553 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.745693 from device 1002
+2025-05-22 12:16:50,563 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.755758 from device 1002
+2025-05-22 12:16:50,572 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.755786 from device 1001
+2025-05-22 12:16:50,582 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.755802 from device 1002
+2025-05-22 12:16:50,592 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.765867 from device 1002
+2025-05-22 12:16:50,601 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.765892 from device 1001
+2025-05-22 12:16:50,613 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.765909 from device 1002
+2025-05-22 12:16:50,627 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.775974 from device 1002
+2025-05-22 12:16:50,638 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.776003 from device 1001
+2025-05-22 12:16:50,647 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.776020 from device 1002
+2025-05-22 12:16:50,657 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.786083 from device 1002
+2025-05-22 12:16:50,667 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.786113 from device 1001
+2025-05-22 12:16:50,677 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.786131 from device 1002
+2025-05-22 12:16:50,686 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.796199 from device 1002
+2025-05-22 12:16:50,696 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.796231 from device 1001
+2025-05-22 12:16:50,705 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.796248 from device 1002
+2025-05-22 12:16:50,715 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.806335 from device 1002
+2025-05-22 12:16:50,724 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.806428 from device 1001
+2025-05-22 12:16:50,738 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.806445 from device 1002
+2025-05-22 12:16:50,748 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.816584 from device 1002
+2025-05-22 12:16:50,757 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.816941 from device 1001
+2025-05-22 12:16:50,767 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.816985 from device 1002
+2025-05-22 12:16:50,777 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.827148 from device 1002
+2025-05-22 12:16:50,787 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.827615 from device 1001
+2025-05-22 12:16:50,796 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.827654 from device 1002
+2025-05-22 12:16:50,806 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.837744 from device 1002
+2025-05-22 12:16:50,817 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.837809 from device 1001
+2025-05-22 12:16:50,828 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.837826 from device 1002
+2025-05-22 12:16:50,838 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.847896 from device 1002
+2025-05-22 12:16:50,848 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.847940 from device 1001
+2025-05-22 12:16:50,857 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.847954 from device 1002
+2025-05-22 12:16:50,867 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.858019 from device 1002
+2025-05-22 12:16:50,877 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.858040 from device 1001
+2025-05-22 12:16:50,886 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.858053 from device 1002
+2025-05-22 12:16:50,896 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.868119 from device 1002
+2025-05-22 12:16:50,905 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.868151 from device 1001
+2025-05-22 12:16:50,914 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.868166 from device 1002
+2025-05-22 12:16:50,924 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.878229 from device 1002
+2025-05-22 12:16:50,934 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.878242 from device 1001
+2025-05-22 12:16:50,947 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.878255 from device 1002
+2025-05-22 12:16:50,957 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.888316 from device 1002
+2025-05-22 12:16:50,966 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.888327 from device 1001
+2025-05-22 12:16:50,976 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.888340 from device 1002
+2025-05-22 12:16:50,985 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.898400 from device 1002
+2025-05-22 12:16:50,995 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.898411 from device 1001
+2025-05-22 12:16:51,005 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.898424 from device 1002
+2025-05-22 12:16:51,016 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.908484 from device 1002
+2025-05-22 12:16:51,027 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.908495 from device 1001
+2025-05-22 12:16:51,037 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.908508 from device 1002
+2025-05-22 12:16:51,046 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.918569 from device 1002
+2025-05-22 12:16:51,056 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.918580 from device 1001
+2025-05-22 12:16:51,065 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.918593 from device 1002
+2025-05-22 12:16:51,079 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.928654 from device 1002
+2025-05-22 12:16:51,088 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.928665 from device 1001
+2025-05-22 12:16:51,097 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.928679 from device 1002
+2025-05-22 12:16:51,107 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.938740 from device 1002
+2025-05-22 12:16:51,116 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.938751 from device 1001
+2025-05-22 12:16:51,126 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.938764 from device 1002
+2025-05-22 12:16:51,135 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.948830 from device 1002
+2025-05-22 12:16:51,145 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.948861 from device 1001
+2025-05-22 12:16:51,154 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.948877 from device 1002
+2025-05-22 12:16:51,168 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.958941 from device 1002
+2025-05-22 12:16:51,177 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.958952 from device 1001
+2025-05-22 12:16:51,187 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.958966 from device 1002
+2025-05-22 12:16:51,197 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.969031 from device 1002
+2025-05-22 12:16:51,208 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.969057 from device 1001
+2025-05-22 12:16:51,221 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.969073 from device 1002
+2025-05-22 12:16:51,232 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.979136 from device 1002
+2025-05-22 12:16:51,242 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.979163 from device 1001
+2025-05-22 12:16:51,252 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.979180 from device 1002
+2025-05-22 12:16:51,262 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.989244 from device 1002
+2025-05-22 12:16:51,271 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.989275 from device 1001
+2025-05-22 12:16:51,281 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.989294 from device 1002
+2025-05-22 12:16:51,290 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.999371 from device 1002
+2025-05-22 12:16:51,299 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.999407 from device 1001
+2025-05-22 12:16:51,309 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.999428 from device 1002
+2025-05-22 12:16:51,319 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.009522 from device 1002
+2025-05-22 12:16:51,329 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.009643 from device 1001
+2025-05-22 12:16:51,338 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.009665 from device 1002
+2025-05-22 12:16:51,347 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.019807 from device 1002
+2025-05-22 12:16:51,358 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.019938 from device 1001
+2025-05-22 12:16:51,367 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.019954 from device 1002
+2025-05-22 12:16:51,377 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.030131 from device 1002
+2025-05-22 12:16:51,390 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.030424 from device 1001
+2025-05-22 12:16:51,400 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.030443 from device 1002
+2025-05-22 12:16:51,411 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.040555 from device 1002
+2025-05-22 12:16:51,423 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.040601 from device 1001
+2025-05-22 12:16:51,433 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.040614 from device 1002
+2025-05-22 12:16:51,443 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.050717 from device 1002
+2025-05-22 12:16:51,453 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.050768 from device 1001
+2025-05-22 12:16:51,462 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.050790 from device 1002
+2025-05-22 12:16:51,472 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.060900 from device 1002
+2025-05-22 12:16:51,481 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.060926 from device 1001
+2025-05-22 12:16:51,491 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.060938 from device 1002
+2025-05-22 12:16:51,501 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.071045 from device 1002
+2025-05-22 12:16:51,510 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.071069 from device 1001
+2025-05-22 12:16:51,520 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.071081 from device 1002
+2025-05-22 12:16:51,530 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.081192 from device 1002
+2025-05-22 12:16:51,539 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.081217 from device 1001
+2025-05-22 12:16:51,548 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.081239 from device 1002
+2025-05-22 12:16:51,559 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.091342 from device 1002
+2025-05-22 12:16:51,568 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.091366 from device 1001
+2025-05-22 12:16:51,577 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.091378 from device 1002
+2025-05-22 12:16:51,587 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.101480 from device 1002
+2025-05-22 12:16:51,597 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.101503 from device 1001
+2025-05-22 12:16:51,613 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.101515 from device 1002
+2025-05-22 12:16:51,624 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.111619 from device 1002
+2025-05-22 12:16:51,634 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.111643 from device 1001
+2025-05-22 12:16:51,644 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.111655 from device 1002
+2025-05-22 12:16:51,654 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.121755 from device 1002
+2025-05-22 12:16:51,669 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.121779 from device 1001
+2025-05-22 12:16:51,679 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.121791 from device 1002
+2025-05-22 12:16:51,688 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.131892 from device 1002
+2025-05-22 12:16:51,698 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.131916 from device 1001
+2025-05-22 12:16:51,708 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.131928 from device 1002
+2025-05-22 12:16:51,717 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.142077 from device 1002
+2025-05-22 12:16:51,727 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.142110 from device 1001
+2025-05-22 12:16:51,736 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.142130 from device 1002
+2025-05-22 12:16:51,747 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.152267 from device 1002
+2025-05-22 12:16:51,756 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.152300 from device 1001
+2025-05-22 12:16:51,766 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.152333 from device 1002
+2025-05-22 12:16:51,776 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.162469 from device 1002
+2025-05-22 12:16:51,785 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.162502 from device 1001
+2025-05-22 12:16:51,796 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.162532 from device 1002
+2025-05-22 12:16:51,808 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.172667 from device 1002
+2025-05-22 12:16:51,819 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.172699 from device 1001
+2025-05-22 12:16:51,834 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.172720 from device 1002
+2025-05-22 12:16:51,845 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.182855 from device 1002
+2025-05-22 12:16:51,854 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.182889 from device 1001
+2025-05-22 12:16:51,864 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.182909 from device 1002
+2025-05-22 12:16:51,873 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.193053 from device 1002
+2025-05-22 12:16:51,883 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.193087 from device 1001
+2025-05-22 12:16:51,892 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.193108 from device 1002
+2025-05-22 12:16:51,902 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.203201 from device 1002
+2025-05-22 12:16:51,911 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.203307 from device 1001
+2025-05-22 12:16:51,921 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.203326 from device 1002
+2025-05-22 12:16:51,931 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.213467 from device 1002
+2025-05-22 12:16:51,940 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.213841 from device 1001
+2025-05-22 12:16:51,950 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.213877 from device 1002
+2025-05-22 12:16:51,960 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.224077 from device 1002
+2025-05-22 12:16:51,969 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.224489 from device 1001
+2025-05-22 12:16:51,979 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.224518 from device 1002
+2025-05-22 12:16:51,988 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.234666 from device 1002
+2025-05-22 12:16:51,998 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.234726 from device 1001
+2025-05-22 12:16:52,009 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.234749 from device 1002
+2025-05-22 12:16:52,020 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.244902 from device 1002
+2025-05-22 12:16:52,030 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.244988 from device 1001
+2025-05-22 12:16:52,045 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:50.245010 from device 1002
+2025-05-22 12:16:52,087 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.279568 from device 1001
+2025-05-22 12:16:52,098 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.279578 from device 1002
+2025-05-22 12:16:52,107 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.289636 from device 1002
+2025-05-22 12:16:52,117 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.289646 from device 1001
+2025-05-22 12:16:52,127 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.289656 from device 1002
+2025-05-22 12:16:52,137 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.299714 from device 1002
+2025-05-22 12:16:52,146 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.299723 from device 1001
+2025-05-22 12:16:52,156 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.299733 from device 1002
+2025-05-22 12:16:52,166 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.309790 from device 1002
+2025-05-22 12:16:52,176 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.309800 from device 1001
+2025-05-22 12:16:52,186 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.309810 from device 1002
+2025-05-22 12:16:52,196 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.319868 from device 1002
+2025-05-22 12:16:52,207 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.319879 from device 1001
+2025-05-22 12:16:52,218 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.319888 from device 1002
+2025-05-22 12:16:52,228 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.329946 from device 1002
+2025-05-22 12:16:52,238 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.329957 from device 1001
+2025-05-22 12:16:52,248 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.329966 from device 1002
+2025-05-22 12:16:52,258 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.340024 from device 1002
+2025-05-22 12:16:52,268 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.340034 from device 1001
+2025-05-22 12:16:52,282 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.340043 from device 1002
+2025-05-22 12:16:52,292 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.350102 from device 1002
+2025-05-22 12:16:52,301 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.350125 from device 1001
+2025-05-22 12:16:52,311 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.350136 from device 1002
+2025-05-22 12:16:52,321 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.360195 from device 1002
+2025-05-22 12:16:52,331 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.360208 from device 1001
+2025-05-22 12:16:52,340 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.360219 from device 1002
+2025-05-22 12:16:52,350 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.370278 from device 1002
+2025-05-22 12:16:52,360 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.370291 from device 1001
+2025-05-22 12:16:52,370 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.370302 from device 1002
+2025-05-22 12:16:52,380 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.380365 from device 1002
+2025-05-22 12:16:52,390 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.380392 from device 1001
+2025-05-22 12:16:52,402 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.380404 from device 1002
+2025-05-22 12:16:52,416 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.390473 from device 1002
+2025-05-22 12:16:52,427 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.390482 from device 1001
+2025-05-22 12:16:52,437 - mqtt_handler - INFO - Received data at 2025-05-22 12:16:49.390493 from device 1002
+2025-05-22 12:16:53,449 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:54,451 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:55,452 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:56,454 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:57,455 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:58,457 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:16:59,458 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:00,460 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:01,461 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:02,463 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:03,464 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:04,466 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:05,467 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:06,468 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:07,470 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:08,471 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:09,473 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:10,474 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:11,484 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:12,486 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:13,487 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:14,489 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:15,490 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:16,492 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:17,493 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:18,497 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:19,500 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:20,501 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:21,511 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:22,504 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:23,506 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:24,507 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:25,509 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:26,510 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:27,512 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:28,513 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:29,515 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:30,516 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:31,526 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:32,528 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:33,529 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:34,533 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:35,535 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:36,536 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:37,537 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:38,539 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:39,540 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:40,542 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:41,543 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:42,544 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:43,546 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:44,547 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:45,549 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:46,550 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:47,555 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:48,557 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:49,558 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:50,560 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:51,570 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:52,571 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:53,572 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:54,574 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:55,575 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:56,577 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:57,578 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:58,580 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:17:59,581 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:00,582 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:01,584 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:02,586 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:03,587 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:04,589 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:05,591 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:06,594 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:07,598 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:08,600 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:09,601 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:10,603 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:11,613 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:12,606 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:13,607 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:14,609 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:15,610 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:16,612 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:17,613 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:18,615 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:19,616 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:20,618 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:21,628 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:22,629 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:23,630 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:24,632 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:25,633 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:26,635 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:27,636 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:28,638 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:29,639 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:30,641 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:31,643 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:32,645 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:33,646 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:34,648 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:35,649 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:36,651 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:37,652 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:38,653 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:39,655 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:40,656 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:41,658 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:42,659 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:43,660 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:44,661 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:45,663 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:46,666 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:47,667 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:48,669 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:49,670 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:50,672 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:51,673 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:52,675 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:53,676 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:54,678 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:55,679 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:56,680 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:57,681 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:58,683 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:18:59,684 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:00,685 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:01,692 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:02,693 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:03,695 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:04,699 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:05,701 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:06,701 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:07,703 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:08,704 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:09,706 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:10,707 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:11,709 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:12,710 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:13,712 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:14,713 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:15,714 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:16,716 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:17,721 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:18,722 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:19,724 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:20,725 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:21,726 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:22,728 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:23,729 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:24,730 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:25,732 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:26,734 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:27,736 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:28,737 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:29,739 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:30,740 - mqtt_handler - INFO - Connected with result code 0
+2025-05-22 12:19:31,741 - mqtt_handler - INFO - Connected with result code 0

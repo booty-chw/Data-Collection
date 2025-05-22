@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/sensors.dir/common/MQTTTransfer.cpp.o"
+  "CMakeFiles/sensors.dir/common/MQTTTransfer.cpp.o.d"
   "CMakeFiles/sensors.dir/sensors/src/egg/egg.cpp.o"
   "CMakeFiles/sensors.dir/sensors/src/egg/egg.cpp.o.d"
   "CMakeFiles/sensors.dir/sensors/src/eye/eye.cpp.o"

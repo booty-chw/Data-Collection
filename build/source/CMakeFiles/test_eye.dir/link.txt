@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/test_eye.dir/testCase/test.cpp.o -o test_eye  libsensors.a 
+/usr/bin/c++ CMakeFiles/test_eye.dir/testCase/testEye.cpp.o -o test_eye  libsensors.a -lmosquitto 

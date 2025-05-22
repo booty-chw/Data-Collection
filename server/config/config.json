@@ -1,0 +1,16 @@
+{
+    "mqtt": {
+        "broker": "localhost",
+        "port": 1883,
+        "topic": "sensors/data",
+        "client_id": "sensor_server"
+    },
+    "database": {
+        "type": "sqlite",
+        "path": "data/sensor_data.db"
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "logs/server.log"
+    }
+}
