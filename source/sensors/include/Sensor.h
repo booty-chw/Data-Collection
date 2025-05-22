@@ -1,6 +1,8 @@
+#ifndef SENSOR_H
+#define SENSOR_H
 
 #include <string>
-#include "common/SensorStructs.h"
+#include "common/SensorStruct.h"
 
 class BioSensorDevice {
 public:
@@ -23,3 +25,5 @@ public:
     };
     virtual DeviceInfo getInfo() const = 0;
 };
+
+#endif // SENSOR_H
