@@ -246,27 +246,6 @@ CREATE TABLE sensor_data (
 );
 ```
 
-### Usage Example 使用示例
-
-```cpp
-#include <iostream>
-#include "sensors/src/eye/eye.h"
-#include "common/SensorStruct.h"
-
-int main() {
-    // Create eye tracker instance 创建眼动仪实例
-    USBEyeTracker eye(0x0483, 0x5740);
-    
-    if(eye.connect()) {
-        SensorData eyedata;
-        eye.readData(eyedata);
-        std::cout << "Gaze X: " << eyedata.values[0] << std::endl;
-        eye.disconnect();
-    }
-    return 0;
-}
-```
-
 ## Troubleshooting 故障排除
 
 1. MQTT Connection Issues MQTT连接问题
