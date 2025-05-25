@@ -58,14 +58,14 @@ CREATE TABLE sensor_data (
     FOREIGN KEY(device_id) REFERENCES devices(device_id)
 );
 ```
-
+<!-- 
 ## Data Transmission 数据传输
 
 The system uses MQTT for real-time data transmission. Each sensor publishes data to specific topics:
 
 - Eye Tracker: `sensors/eye/<device_id>/data`
 - EEG: `sensors/eeg/<device_id>/data`
-- Wristband: `sensors/wristband/<device_id>/data`
+- Wristband: `sensors/wristband/<device_id>/data` -->
 
 ### MQTT Message Format
 
@@ -179,15 +179,15 @@ The system uses MQTT for real-time data transmission. Each sensor publishes data
    ./test_wristband
    ```
 
-### System Requirements 系统要求
+<!-- ### System Requirements 系统要求
 
 - CPU: 2.0 GHz dual-core or better
 - RAM: 4GB minimum, 8GB recommended
 - Storage: 1GB free space
 - USB ports for sensors
-- Network connection for data transmission
+- Network connection for data transmission -->
 
-### Sensor Specifications 传感器规格
+<!-- ### Sensor Specifications 传感器规格
 
 1. Eye Tracker 眼动仪
    - Resolution: 0.1 degree
@@ -205,7 +205,7 @@ The system uses MQTT for real-time data transmission. Each sensor publishes data
    - Channel: 1 (PPG)
    - Sampling rate: 128 Hz
    - Connection: Bluetooth LE
-   - Battery life: 24 hours
+   - Battery life: 24 hours -->
 
 ### Data Format 数据格式
 
@@ -273,12 +273,3 @@ CREATE TABLE sensor_data (
      ```
    - Ensure all dependencies are installed
 
-## License 许可证
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-本项目采用 MIT 许可证 - 详见 LICENSE 文件。
-
-## Contributing 贡献
-
-We welcome contributions! Please see CONTRIBUTING.md for guidelines.
-我们欢迎贡献！请参阅 CONTRIBUTING.md 了解指南。
